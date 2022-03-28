@@ -1,0 +1,86 @@
+*{
+    padding:0%;
+    margin:0%;
+}
+body{
+    background-attachment: fixed;
+    background-position:center;
+}
+.infoblock{
+    width:300px;
+    height:50px;
+    margin-right:100px;
+    color:aliceblue;
+}
+.mainblock{
+    max-height:100%;
+    background-color:#212529;
+    opacity:0.8;
+}
+.podmainblock{
+    color:rgb(255, 255, 255);
+    opacity:100%;
+    font-size:24px;
+    text-align:center;
+}
+.iconblock{
+    text-align:center;
+    margin-right: 5px;
+    margin-left: 5px;
+    color:rgb(255, 255, 255);
+}
+.podiconblock{
+    color:black;
+}
+.askblock{
+    color:rgb(255,255,255);
+    font-size:24px;
+    text-align:center;
+}
+.row{
+    text-align:center;
+    color:white;
+}
+.batblock{
+    padding:10px;
+    background-color:black;
+    border-radius:20px;; 
+    max-height:100px;
+    max-width:200px;
+}
+.nazi{
+    color:rgb(255, 255, 255);
+    opacity:100%;
+    font-size:24px;
+    text-align:center;
+}
+.benefitblock{
+    font-size:17px;
+}
+.bor{
+    background-color:#212529;
+    color:#717880;
+    line-height:10px;
+}
+.texto{
+    color:rgb(255, 255, 255);
+    opacity:100%;
+    font-size:24px;
+    margin-top:15px;
+    text-align:center;
+}
+.podtexto{
+    line-height:26px;
+}
+img{
+    width:70%;
+    height:95%;
+}
+a{
+    text-decoration:none;
+    color:rgb(177, 173, 173);
+}
+a:hover{
+    color:rgb(212, 211, 211);
+    transition:0.4s;
+}
